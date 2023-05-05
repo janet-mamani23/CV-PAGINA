@@ -1,0 +1,30 @@
+body {
+    background-color: #df99f0;
+}
+h1 {
+    background-color:rgb(189, 43, 226);
+    height: 110px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+}
+h3 {
+    background-color: rgba(226, 43, 134, 0.925);
+    display: flex;
+    justify-content: center;
+}
+form {
+    background-color: rgb(226, 43, 67);
+    height: 300px;
+}
+form  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+ul li {
+    background-color: rgb(226, 43, 226);
+
+}
